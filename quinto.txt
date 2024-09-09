@@ -1,0 +1,9 @@
+Primeira Visita:
+Liga o primeiro interruptor e espero alguns minutos.
+Depois desligo o primeiro interruptor e ligo o segundo interruptor.
+
+Segunda Visita:
+Entro nas salas e observe:
+Se uma lâmpada estiver acesa, ela está conectada ao segundo interruptor.
+Se uma lâmpada estiver apagada, mas ainda estiver quente, ela está conectada ao primeiro interruptor.
+A lâmpada restante está conectada ao terceiro interruptor.
